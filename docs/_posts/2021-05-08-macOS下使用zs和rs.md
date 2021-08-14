@@ -8,3 +8,5 @@ tags:
  - Skills
 ---
 
+参考文章:[macOS - 使用rz、sz命令进行文件上传和下载（iTerm2安装使用)](https://www.hangge.com/blog/cache/detail_2397.html)
+

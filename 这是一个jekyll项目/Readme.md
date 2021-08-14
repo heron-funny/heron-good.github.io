@@ -1,0 +1,1 @@
+http://jekyllcn.com/docs/continuous-integration/
