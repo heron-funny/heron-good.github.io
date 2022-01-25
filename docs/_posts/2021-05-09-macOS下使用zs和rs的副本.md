@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "macOS下使用zs和rs的副本"
-date:   2021-05-08
+date:   2021-05-09
 categories:
  - Turorial
 tags:
