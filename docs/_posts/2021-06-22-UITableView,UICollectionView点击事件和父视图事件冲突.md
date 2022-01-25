@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UITableView,UICollectionView点击事件和父视图事件冲突.md"
+title:  "UITableView,UICollectionView点击事件和父视图事件冲突"
 date:   2021-06-22
 categories:
  - Turorial
